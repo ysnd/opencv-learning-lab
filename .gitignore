@@ -1,7 +1,7 @@
-.yml
-.swp
-.weights
-.png
-.jpg
-.jpeg
-.mp4
+**/*.yml
+**/*.swp
+**/*.weights
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.mp4
